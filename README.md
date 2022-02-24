@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hey, David here! <img src="" width="30px">
+
 
 <!--
 **davidtothekim/davidtothekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
