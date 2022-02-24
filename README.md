@@ -1,4 +1,4 @@
-## Hey, David here! <img src="" width="30px">
+## Hey, David here! <img src="https://github.com/davidtothekim/davidtothekim/blob/main/wave.gif" width="30px">
 
 
 <!--
