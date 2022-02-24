@@ -1,3 +1,5 @@
+<img src="https://github.com/davidtothekim/davidtothekim/blob/main/typing.gif" height="150px" width=100%>
+
 ### Hey, David here! <img src="https://github.com/davidtothekim/davidtothekim/blob/main/wave.gif" width="25px">
 <a href="https://www.instagram.com/davidtothekim/">
   <img align="left" alt="David's Instagram" src="https://img.icons8.com/color/24/000000/instagram-new--v2.png"/>
