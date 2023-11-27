@@ -17,7 +17,7 @@ Thanks for visiting, I'd love to [connect](https://www.linkedin.com/in/david-dg-
 
 <!-- Languages and tools -->
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,react,typescript,nextjs,nodejs,express,python,mysql,mongodb,git,figma&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,react,typescript,nextjs,nodejs,express,python,mysql,mongodb,git,figma&perline=7)](https://skillicons.dev)
 
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhhbXBmZzZhbmxzbWhpM2VsYWRnczljajF6aGF4cmpzYzdqaDY5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l2kXHZLjm8BPfW1LLS/giphy.gif" height="60"> A little more about me...  
