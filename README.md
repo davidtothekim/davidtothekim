@@ -1,6 +1,7 @@
-<img src="https://github.com/davidtothekim/davidtothekim/blob/main/typing.gif" height="150px" width=100%>
-
-### Hey, David here! <img src="https://github.com/davidtothekim/davidtothekim/blob/main/wave.gif" width="25px">
+<h2>안녕하세요 (Hey there), I'm David Kim! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNpNGxiNnJpN2JrZTRtb2JybWZ1cXBtazVxbzlvZWxsMW93Z21zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" width="50"></h2>
+<p><em>Digital Product Manager @ <a href="https://www.oneorigin.us/">OneOrigin
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 <!-- Social Media Icons -->
 <a href="https://www.instagram.com/davidtothekim/">
