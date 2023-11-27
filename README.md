@@ -1,5 +1,5 @@
 <h2>안녕하세요 (Hey there), I'm David Kim! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNpNGxiNnJpN2JrZTRtb2JybWZ1cXBtazVxbzlvZWxsMW93Z21zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" width="50"></h2>
-<img align='right' src="./assets/pixel-art.gif" height="350">
+<img align='right' src="./assets/pixel-art.gif" height="300">
 
 <p text-align="baseline"><em>Digital Product Manager @ Scotia Digital &nbsp <img vertical-align="baseline" src="/assets/BNS.svg" height="15">
 </em></p>
@@ -23,23 +23,23 @@ Thanks for visiting, I'd love to [connect](https://www.linkedin.com/in/david-dg-
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhhbXBmZzZhbmxzbWhpM2VsYWRnczljajF6aGF4cmpzYzdqaDY5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l2kXHZLjm8BPfW1LLS/giphy.gif" height="60"> A little more about me...  
 
 ```javascript
-const anmol = {
+const david = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Python"],
+    askMeAbout: ["web dev", "tech", "app dev", "volleyball"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "Express"],
         },
         mobileApp: {
             native: ["Android Development"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["mongoDB", "MySql", "Firebase"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
+    currentFocus: "React Native",
     funFact: "I've lived in 3 different countries and have travelled to more than 10!"
 };
 ```
