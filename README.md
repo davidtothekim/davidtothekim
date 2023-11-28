@@ -13,7 +13,7 @@
 
 <!-- Short Intro -->
 Welcome to my profile! I'm a PM and aspiring software engineer from Toronto, Canada 🇨🇦 <br/>
-Thanks for visiting, I'd love to [connect](https://www.linkedin.com/in/david-dg-kim/)!
+Thanks for visiting, I'd love to [connect](https://www.linkedin.com/in/david-dg-kim/)! &emsp; &emsp;
 
 <!-- Languages and tools -->
 ### Languages and Tools
