@@ -12,8 +12,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-dgkim.david-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dgkim.david@gmail.com)](mailto:dgkim.david@gmail.com)
 
 <!-- Short Intro -->
-Welcome to my profile! I'm a PM and aspiring software engineer from Toronto, Canada 🇨🇦 <br/>
-Thanks for visiting, I'd love to [connect](https://www.linkedin.com/in/david-dg-kim/)! &emsp; &emsp;
+Welcome to my profile! I'm a PM and aspiring software engineer from Toronto, Canada 🇨🇦 &emsp;<br/>
+Thanks for visiting, I'd love to [connect](https://www.linkedin.com/in/david-dg-kim/)!
 
 <!-- Languages and tools -->
 ### Languages and Tools
