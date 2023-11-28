@@ -1,5 +1,5 @@
 <h2>안녕하세요 (Hey there), I'm David Kim! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNpNGxiNnJpN2JrZTRtb2JybWZ1cXBtazVxbzlvZWxsMW93Z21zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" width="50"></h2>
-<img align='right' src="./assets/pixel-art.gif" height="300">
+<img align='right' src="./assets/pixel-art-2.gif" height="310">
 
 <p text-align="baseline"><em>Digital Product Manager @ Scotia Digital &nbsp <img vertical-align="baseline" src="/assets/BNS.svg" height="15">
 </em></p>
