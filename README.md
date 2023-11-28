@@ -40,12 +40,8 @@ const david = {
 ```
 
 ### Github Stats
-<a href='https://github.com/davidtothekim/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+![](https://raw.githubusercontent.com/davidtothekim/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/davidtothekim/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--
 **davidtothekim/davidtothekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
