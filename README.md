@@ -25,26 +25,17 @@ Thanks for visiting, I'd love to [connect](https://www.linkedin.com/in/david-dg-
 ```javascript
 const david = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev", "volleyball"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express"],
+    specialization: ["full stack", "web", "fin tech"], 
+    askMeAbout: ["web dev", "tech", "app dev", "volleyball", "anime"],
+    currentLearning: {
+        mobile: {
+            native: ["React Native"]
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongoDB", "MySql", "Firebase"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        other: ["Typescript", "Redis"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "React Native",
     funFact: "I've lived in 3 different countries and have travelled to more than 10!"
 };
 ```
-
-
 
 <!--
 **davidtothekim/davidtothekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
