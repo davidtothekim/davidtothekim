@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=davidtothekim.davidtothekim&left_text=Visitors)
+
 <h2>안녕하세요 (Hey there), I'm David Kim! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNpNGxiNnJpN2JrZTRtb2JybWZ1cXBtazVxbzlvZWxsMW93Z21zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" width="50"></h2>
 <img align='right' src="./assets/pixel-art-2.gif" height="310" width="320">
 
@@ -36,6 +38,14 @@ const david = {
     funFact: "I've lived in 3 different countries and have travelled to more than 10!"
 };
 ```
+
+### Github Stats
+<a href='https://github.com/davidtothekim/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 <!--
 **davidtothekim/davidtothekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
